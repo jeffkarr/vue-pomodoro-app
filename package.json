@@ -1,0 +1,19 @@
+{
+  "name": "vue-pomodoro-app",
+  "version": "1.0.0",
+  "description": "A productivity tool used to focus on a task for a defined time period.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffkarr/vue-pomodoro-app.git"
+  },
+  "author": "Jeff Karr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffkarr/vue-pomodoro-app/issues"
+  },
+  "homepage": "https://github.com/jeffkarr/vue-pomodoro-app#readme"
+}
