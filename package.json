@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jeffkarr/vue-pomodoro-app/issues"
   },
-  "homepage": "https://github.com/jeffkarr/vue-pomodoro-app#readme"
+  "homepage": "https://github.com/jeffkarr/vue-pomodoro-app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
